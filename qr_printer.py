@@ -25,7 +25,7 @@ class QRPrinterApp:
         self.start_number_var = tk.StringVar(value="1")
         self.quantity_var = tk.StringVar(value="1")
         self.description_var = tk.StringVar(value="")
-        self.printer_path_var = tk.StringVar(value="\\\\edg1i-bjohnson\\testzeb")
+        self.printer_path_var = tk.StringVar(value="\\\\printserver\\printer")
         
         self.generated_labels = []
         self.current_qr_image = None
