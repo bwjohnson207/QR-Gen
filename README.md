@@ -56,7 +56,7 @@ The application tries multiple printing methods automatically:
 
 ## Printer Configuration
 
-Default printer path: `\\edg1i-bjohnson\testzeb`
+Default printer path: `\\printserver\printer`
 
 You can change this in the "Printer Path" field to match your network printer.
 
